@@ -1,7 +1,14 @@
 body{
-    background-color: aqua;
+    background-color: darkslategrey;
 }
 
 h1{
-    color: blue
+    color: darkseagreen;
+    text-align: center;
+    border-style: double;
+    background-color: dimgray;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin-left: 400px;
 }
+
